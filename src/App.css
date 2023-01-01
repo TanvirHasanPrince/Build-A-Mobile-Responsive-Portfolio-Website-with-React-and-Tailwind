@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+h1{
+  padding: 20px 20px;
+}
+
+h1:hover{
+  border: 2px solid #3ABff8;
+  color: #c33a1b;
+  border-radius: 20px;
+  padding: 20px 20px;
+}
